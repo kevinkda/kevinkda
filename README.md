@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **kevinkda/kevinkda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Kevin Tang's Github Stats](https://github-readme-stats.vercel.app/api?username=kevinkda&show_icons=true&theme=radical&count_private=true)
+
+![Kevin Tang's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=kevinkda&theme=redical)
+
