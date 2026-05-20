@@ -1,25 +1,43 @@
+<h1 align="center">Hi 👋, I'm Kevin Tang</h1>
+
+<h3 align="center">Business Analyst @Amazon | AWS SAP · PMP | Java · Python · AWS · Cloud Architecture</h3>
+
+ ![Java](https://camo.githubusercontent.com/86f9c4bb8a7d0c66c77f70cab7465f9a05406f876acaf234fb0479f982be08e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176612d4533344138363f7374796c653d666c61742d737175617265266c6f676f3d6a617661)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script|87](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) [![Amazon AWS](https://camo.githubusercontent.com/1bf3833b1e73c4d687ec54d3dbb2aa6f6ad92c1878317330b8a8bc15c525e65c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2532304157532d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773)](https://camo.githubusercontent.com/1bf3833b1e73c4d687ec54d3dbb2aa6f6ad92c1878317330b8a8bc15c525e65c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2532304157532d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773) [![Microsoft Azure](https://camo.githubusercontent.com/796eb7766647e1879a2f79530fc18a212dd29b9d77bf1f042bd8b347998036ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f6674253230417a7572652d3233324637453f7374796c653d666c61742d737175617265266c6f676f3d6d6963726f736f66742d617a757265)](https://camo.githubusercontent.com/796eb7766647e1879a2f79530fc18a212dd29b9d77bf1f042bd8b347998036ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f6674253230417a7572652d3233324637453f7374796c653d666c61742d737175617265266c6f676f3d6d6963726f736f66742d617a757265) [![Google Cloud](https://camo.githubusercontent.com/177cc8dd3083b9a8210852764970e43152a43556d21378679845def40a0590f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65253230436c6f75642d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c652d636c6f7564)](https://camo.githubusercontent.com/177cc8dd3083b9a8210852764970e43152a43556d21378679845def40a0590f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65253230436c6f75642d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c652d636c6f7564) [![Git](https://camo.githubusercontent.com/917e2db4dee1eca1af77ff4cb990ea2f7edf3c952bc92d8da3ecd60d30a0cf8b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974)](https://camo.githubusercontent.com/917e2db4dee1eca1af77ff4cb990ea2f7edf3c952bc92d8da3ecd60d30a0cf8b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974) [![GitHub](https://camo.githubusercontent.com/39aa2de8ff77803bd3fcef7cf37c72d984a9c6c0f737eccd98409aea8b5dbd20/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562)](https://camo.githubusercontent.com/39aa2de8ff77803bd3fcef7cf37c72d984a9c6c0f737eccd98409aea8b5dbd20/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562) ![Jira|47](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)[![GitLab](https://camo.githubusercontent.com/b29661cd14de82d8710a9088863f7d467ddc69011709d4a94946c539bdd2e1c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744c61622d4643413132313f7374796c653d666c61742d737175617265266c6f676f3d6769746c6162)](https://camo.githubusercontent.com/b29661cd14de82d8710a9088863f7d467ddc69011709d4a94946c539bdd2e1c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744c61622d4643413132313f7374796c653d666c61742d737175617265266c6f676f3d6769746c6162) [![BitBucket](https://camo.githubusercontent.com/084298f5171d7d921cfd79c8949bf4fb765d582360e6d9899f8469a71aaca5cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4269744275636b65742d6461726b626c75653f7374796c653d666c61742d737175617265266c6f676f3d6269746275636b6574)](https://camo.githubusercontent.com/084298f5171d7d921cfd79c8949bf4fb765d582360e6d9899f8469a71aaca5cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4269744275636b65742d6461726b626c75653f7374796c653d666c61742d737175617265266c6f676f3d6269746275636b6574)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)![Django|65](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white)![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=flat&logo=nuxt.js&logoColor=white)![NodeJS|69](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)![Threejs|67](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white)![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)![SQLite|57](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis|55](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+
+![header](./asserts/headers.jpg)
 
 
-<!-- ### Hi there 👋 -->
 
-<!--
-**kevinkda/kevinkda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Github Stats
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cmrhyq/cmrhyq/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cmrhyq/cmrhyq/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cmrhyq/cmrhyq/output/github-contribution-grid-snake.svg">
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinkda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-🚀 coding
 
-![Kevin Tang's Github Stats](https://github-readme-stats.vercel.app/api?username=kevinkda&show_icons=true&theme=radical&count_private=true)
 
-![Kevin Tang's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=kevinkda&theme=redical)
+## 🧑‍💻 About Me
+
+- 🔭 I'm currently working on **[LLMTestAgent](https://github.com/cmrhyq/LLMTestAgent)** — an AI-powered API automation testing agent built on large language models
+- 🌱 I'm passionate about combining **AI/LLM** with **software testing** to build intelligent QA solutions
+- 🛠️ I specialize in **test automation**, **full-stack development**, and **DevOps tooling**
+- 🏢 Based in **Shenzhen, China**
+- ⚡ Fun fact: I turn manual testing pain into automated testing gain
+
+
+
+## 🗒 Quick Links
+<p align="center">
+	<a href="https://github.com/kevinkda" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/kevinkda/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/share/1CCVLCSfGd/?mibextid=wwXIfr/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/kevinkda/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:kevinlhjz@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
 
