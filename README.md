@@ -24,11 +24,14 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm currently working on **[LLMTestAgent](https://github.com/cmrhyq/LLMTestAgent)** — an AI-powered API automation testing agent built on large language models
-- 🌱 I'm passionate about combining **AI/LLM** with **software testing** to build intelligent QA solutions
-- 🛠️ I specialize in **test automation**, **full-stack development**, and **DevOps tooling**
-- 🏢 Based in **Shenzhen, China**
-- ⚡ Fun fact: I turn manual testing pain into automated testing gain
+
+- 🏢 Full-stack & cloud engineer at **Amazon**, building internal operations automation platforms end-to-end — backend, infrastructure, data, and security.
+- ☁️ **AWS Certified Solutions Architect – Professional** · also hold AWS SAA, CCP, PMP, and Microsoft SC-900. CISM in progress.
+- 🛠️ I work across the stack: **Java / Spring Boot · Python · AWS CDK · DynamoDB · Athena · Glue · Lambda · SNS/SQS · AWS Batch**.
+- 🔐 Passionate about **serverless architecture**, **multi-account AWS governance**, **IAM/ABAC**, and turning ad-hoc internal tooling into compliant, observable platforms.
+- 🌱 Currently going deeper on **distributed systems**, **GenAI-assisted development workflows**, and **information security** (CISM track).
+- 📍 Based in **Beijing, China** — open to **Shanghai / Shenzhen / Hong Kong**.
+- ⚡ Fun fact: my official title is "Business Analyst", but my git history disagrees.
 
 
 
