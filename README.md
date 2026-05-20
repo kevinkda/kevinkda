@@ -1,8 +1,51 @@
 <h1 align="center">Hi 👋, I'm Kevin Tang</h1>
 
-<h3 align="center">Business Analyst @Amazon | AWS SAP · PMP | Java · Python · AWS · Cloud Architecture</h3>
+<h3 align="center">Business Analyst (Full-Stack Eng. Scope) @Amazon · AWS SA-Professional · PMP</h3>
 
- ![Java](https://camo.githubusercontent.com/86f9c4bb8a7d0c66c77f70cab7465f9a05406f876acaf234fb0479f982be08e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176612d4533344138363f7374796c653d666c61742d737175617265266c6f676f3d6a617661)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script|87](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) [![Amazon AWS](https://camo.githubusercontent.com/1bf3833b1e73c4d687ec54d3dbb2aa6f6ad92c1878317330b8a8bc15c525e65c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2532304157532d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773)](https://camo.githubusercontent.com/1bf3833b1e73c4d687ec54d3dbb2aa6f6ad92c1878317330b8a8bc15c525e65c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2532304157532d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773) [![Microsoft Azure](https://camo.githubusercontent.com/796eb7766647e1879a2f79530fc18a212dd29b9d77bf1f042bd8b347998036ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f6674253230417a7572652d3233324637453f7374796c653d666c61742d737175617265266c6f676f3d6d6963726f736f66742d617a757265)](https://camo.githubusercontent.com/796eb7766647e1879a2f79530fc18a212dd29b9d77bf1f042bd8b347998036ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f6674253230417a7572652d3233324637453f7374796c653d666c61742d737175617265266c6f676f3d6d6963726f736f66742d617a757265) [![Google Cloud](https://camo.githubusercontent.com/177cc8dd3083b9a8210852764970e43152a43556d21378679845def40a0590f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65253230436c6f75642d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c652d636c6f7564)](https://camo.githubusercontent.com/177cc8dd3083b9a8210852764970e43152a43556d21378679845def40a0590f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65253230436c6f75642d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c652d636c6f7564) [![Git](https://camo.githubusercontent.com/917e2db4dee1eca1af77ff4cb990ea2f7edf3c952bc92d8da3ecd60d30a0cf8b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974)](https://camo.githubusercontent.com/917e2db4dee1eca1af77ff4cb990ea2f7edf3c952bc92d8da3ecd60d30a0cf8b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974) [![GitHub](https://camo.githubusercontent.com/39aa2de8ff77803bd3fcef7cf37c72d984a9c6c0f737eccd98409aea8b5dbd20/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562)](https://camo.githubusercontent.com/39aa2de8ff77803bd3fcef7cf37c72d984a9c6c0f737eccd98409aea8b5dbd20/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562) ![Jira|47](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)[![GitLab](https://camo.githubusercontent.com/b29661cd14de82d8710a9088863f7d467ddc69011709d4a94946c539bdd2e1c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744c61622d4643413132313f7374796c653d666c61742d737175617265266c6f676f3d6769746c6162)](https://camo.githubusercontent.com/b29661cd14de82d8710a9088863f7d467ddc69011709d4a94946c539bdd2e1c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744c61622d4643413132313f7374796c653d666c61742d737175617265266c6f676f3d6769746c6162) [![BitBucket](https://camo.githubusercontent.com/084298f5171d7d921cfd79c8949bf4fb765d582360e6d9899f8469a71aaca5cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4269744275636b65742d6461726b626c75653f7374796c653d666c61742d737175617265266c6f676f3d6269746275636b6574)](https://camo.githubusercontent.com/084298f5171d7d921cfd79c8949bf4fb765d582360e6d9899f8469a71aaca5cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4269744275636b65742d6461726b626c75653f7374796c653d666c61742d737175617265266c6f676f3d6269746275636b6574)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)![Django|65](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white)![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=flat&logo=nuxt.js&logoColor=white)![NodeJS|69](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)![Threejs|67](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white)![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)![SQLite|57](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis|55](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+## 🧑‍💻 About Me
+
+
+- 🏢 Full-stack & cloud engineer at **Amazon**, building internal operations automation platforms end-to-end — backend, infrastructure, data, and security.
+- ☁️ **AWS Certified Solutions Architect – Professional** · also hold AWS SAA, CCP, PMP, and Microsoft SC-900. CISM in progress.
+- 🛠️ I work across the stack: **Java / Spring Boot · Python · AWS CDK · DynamoDB · Athena · Glue · Lambda · SNS/SQS · AWS Batch**.
+- 🔐 Passionate about **serverless architecture**, **multi-account AWS governance**, **IAM/ABAC**, and turning ad-hoc internal tooling into compliant, observable platforms.
+- 🌱 Currently going deeper on **distributed systems**, **GenAI-assisted development workflows**, and **information security** (CISM track).
+- 📍 Based in **Beijing, China** — open to **Shanghai / Shenzhen / Hong Kong**.
+- ⚡ Fun fact: my official title is "Business Analyst", but my git history disagrees.
+
+
+## 🛠️ Tech Stack
+
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Shell Script|87](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Cloud & Serverless**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat&logo=amazonapigateway&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step%20Functions-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
+![SNS/SQS](https://img.shields.io/badge/SNS%20%2F%20SQS-FF4F8B?style=flat&logo=amazonsqs&logoColor=white)
+![IAM / KMS / VPC](https://img.shields.io/badge/IAM%20%2F%20KMS%20%2F%20VPC-DD344C?style=flat&logo=amazoniam&logoColor=white)
+
+**Data**  
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![Athena](https://img.shields.io/badge/Athena-DA552F?style=flat&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![Glue](https://img.shields.io/badge/Glue-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Frameworks & IaC**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 
 ![header](./asserts/headers.jpg)
 
@@ -19,20 +62,6 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinkda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-
-
-## 🧑‍💻 About Me
-
-
-- 🏢 Full-stack & cloud engineer at **Amazon**, building internal operations automation platforms end-to-end — backend, infrastructure, data, and security.
-- ☁️ **AWS Certified Solutions Architect – Professional** · also hold AWS SAA, CCP, PMP, and Microsoft SC-900. CISM in progress.
-- 🛠️ I work across the stack: **Java / Spring Boot · Python · AWS CDK · DynamoDB · Athena · Glue · Lambda · SNS/SQS · AWS Batch**.
-- 🔐 Passionate about **serverless architecture**, **multi-account AWS governance**, **IAM/ABAC**, and turning ad-hoc internal tooling into compliant, observable platforms.
-- 🌱 Currently going deeper on **distributed systems**, **GenAI-assisted development workflows**, and **information security** (CISM track).
-- 📍 Based in **Beijing, China** — open to **Shanghai / Shenzhen / Hong Kong**.
-- ⚡ Fun fact: my official title is "Business Analyst", but my git history disagrees.
-
 
 
 ## 🗒 Quick Links
